@@ -5055,6 +5055,12 @@
     githubId = 225893;
     name = "James Cook";
   };
+  faradaydevel = {
+    name = "Faraday Developers";
+    email = "devel@faradaysec.com";
+    github = "infobyte";
+    githubId = 4226354;
+  };
   farcaller = {
     name = "Vladimir Pouzanov";
     email = "farcaller@gmail.com";
